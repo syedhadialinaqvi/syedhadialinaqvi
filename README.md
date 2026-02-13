@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @syedhadialinaqvi
 - 👀 I’m interested in Web Development , Problem Solving and Artificial Intelligence
 - 🌱 I’m currently Studying BS in Artificial Intelligence at PUCIT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me syedhadi.rf.gd
 
 <!---
